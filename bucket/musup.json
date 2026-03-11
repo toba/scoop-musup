@@ -1,16 +1,16 @@
 {
-  "version": "0.7.0",
+  "version": "0.9.0",
   "description": "Check for new album releases from artists in your music library",
   "homepage": "https://github.com/toba/musup",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/toba/musup/releases/download/v0.7.0/musup_windows_amd64.zip",
-      "hash": "6926e0b06099a88618739e771b5c73ae8d3a75d71b751359078557d0a81bd91a"
+      "url": "https://github.com/toba/musup/releases/download/v0.9.0/musup_windows_amd64.zip",
+      "hash": "21dee0065f7a741a36b8b86fcb799405aab6f364614e2eb5c4a38cb012db38c5"
     },
     "arm64": {
-      "url": "https://github.com/toba/musup/releases/download/v0.7.0/musup_windows_arm64.zip",
-      "hash": "e3b0e2ccfe7ae4a80fa5ee299e2ee2d39a0cb1aa10b67dd54169d3213ac496a0"
+      "url": "https://github.com/toba/musup/releases/download/v0.9.0/musup_windows_arm64.zip",
+      "hash": "107183b1715a3b2a8e7b470853bedf093531b29c39a1fe019db192030bebaf81"
     }
   },
   "bin": [
